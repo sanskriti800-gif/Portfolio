@@ -40,7 +40,7 @@ function NavBar() {
           <Nav className="me-auto">
             <Nav.Link href="#home" className={activeLink === "home"? "active navbar-Link":"navbar-link"} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
             <Nav.Link href="#skills" className={activeLink === "skills"? "active navbar-Link":"navbar-link"} onClick={() => onUpdateActiveLink('skills')}>Link</Nav.Link>
-            <Nav.Link href="#project" className={activeLink === "projects"? "active navbar-Link":"navbar-link"} onClick={() => onUpdateActiveLink('projects')}>Projects</Nav.Link>
+            <Nav.Link href="#project" className={activeLink === "project"? "active navbar-Link":"navbar-link"} onClick={() => onUpdateActiveLink('project')}>Projects</Nav.Link>
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
