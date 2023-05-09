@@ -27,7 +27,7 @@ const ProjectCardData = [
         img: Proj5,
         title: "Portfolio",
         text: "It is my portfolio describing me with all my contact details and my projects.",
-        view: "https://sanskriti-culture-of-india.netlify.app/",
+        view: "https://warm-sawine-d2f23f.netlify.app",
         src: "https://github.com/sanskriti800-gif/Portfolio"
     },
     {
