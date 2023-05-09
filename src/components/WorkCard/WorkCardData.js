@@ -27,7 +27,7 @@ const ProjectCardData = [
         img: Proj5,
         title: "Portfolio",
         text: "It is my portfolio describing me with all my contact details and my projects.",
-        view: "https://warm-sawine-d2f23f.netlify.app",
+        view: "https://about-me-sanskriti-gupta.netlify.app",
         src: "https://github.com/sanskriti800-gif/Portfolio"
     },
     {
@@ -42,7 +42,7 @@ const ProjectCardData = [
         title: "ApnaPlatform",
         text: "Interview preparation platform where you can interact with people of same domain and sharing you ideas with them and reduce fear of public speaking. This is build up with the use of ReactJs, Zegocloud, Firebase",
         view: "https://sanskriti-culture-of-india.netlify.app/",
-        src: "https://github.com/sanskriti800-gif"
+        src: "https://github.com/sanskriti800-gif/ApnaPlatform"
     }
 ]
 
