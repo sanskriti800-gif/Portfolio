@@ -3,7 +3,7 @@ import './WorkCardStyles.css'
 import { NavLink } from 'react-router-dom'
 import Proj1 from '../assets/project-img1.png'
 import Proj2 from '../assets/project-img2.png'
-import Proj3 from '../assets/project-img3.jpeg'
+import Proj3 from '../assets/apnaPlatform_home.png'
 import Proj4 from '../assets/project-img4.png'
 import Proj5 from '../assets/project-img5.png'
 
@@ -34,14 +34,14 @@ const ProjectCardData = [
         img: Proj2,
         title: "Asha Diary",
         text: "It is about making VHIR register online and disease identification for helping Asha workers. This is build up with the use of Python(Numpy, Pandas), Machine Learning, Java, XML, MySql",
-        view: "https://sanskriti-culture-of-india.netlify.app/",
-        src: "https://github.com/sanskriti800-gif"
+        view: "https://github.com/sanskriti800-gif/AshaDiary",
+        src: "https://github.com/sanskriti800-gif/AshaDiary"
     },
     {
         img: Proj3,
         title: "ApnaPlatform",
         text: "Interview preparation platform where you can interact with people of same domain and sharing you ideas with them and reduce fear of public speaking. This is build up with the use of ReactJs, Zegocloud, Firebase",
-        view: "https://sanskriti-culture-of-india.netlify.app/",
+        view: "https://apnaplatform.netlify.app/",
         src: "https://github.com/sanskriti800-gif/ApnaPlatform"
     }
 ]
